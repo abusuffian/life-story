@@ -3,6 +3,6 @@ conclusions as they align with main ideas and supporting evidence in paragraphs 
 My name is Hemel. I learn in git and github. After learn in javascript and jquery and bootstrap.
 My village name is Kalampur. My college name is govt.Dhamrai college.
 This is my site.
-I will join at Dhaka unversity.
+I will join at Dhaka college.
 logo alignment is centered
-This is hemel.
+new line
