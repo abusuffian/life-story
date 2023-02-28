@@ -1,6 +1,10 @@
 The text below introduces the idea of premises and conclusions. As you view this, think about the relationship of premises and
 conclusions as they align with main ideas and supporting evidence in paragraphs that we explored earlier in this module.
-My name is Hemel. I learn in git and github. After learn in javascript and jquery.
+My name is Hemel. I learn in git and github. After learn in javascript and jquery and bootstrap.
 My village name is Kalampur. My college name is govt.Dhamrai college.
+<<<<<<< HEAD
 This is my site.
 I will join at Dhaka unversity.
+=======
+
+>>>>>>> 45d49cf65fd21ffa1d7b20635a0ff895a3b1f6f8
